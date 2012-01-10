@@ -38,3 +38,5 @@ for line in tailer.follow(open('test.txt')):
 
 == Original source
 http://code.google.com/p/pytailer[Pytailer google code page]
+
+// vim:set ft=asciidoc:
